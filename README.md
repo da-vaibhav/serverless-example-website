@@ -14,9 +14,11 @@ Overall, this infrastructure stack is perhaps the cheapest possible way to deplo
 
 &nbsp;
 
-1. [Install](#1-install)
-2. [Deploy](#2-deploy)
-3. [Notes](#3-notes)
+- [Template - Website](#template---website)
+    - [1. Install](#1-install)
+    - [2. Deploy](#2-deploy)
+    - [3. Notes](#3-notes)
+  - [New to Components?](#new-to-components)
 
 &nbsp;
 
